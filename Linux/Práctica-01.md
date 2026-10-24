@@ -11,8 +11,10 @@ Documentar el aprendizaje y las prácticas realizadas en el entorno Linux.
 
 - ## Comandos utilizados
 
-En esta práctica se trabajan los comandos básicos de Linux para conocer el entorno y gestionar archivos y directorios.
+- `pwd`: muestra la ruta del directorio actual.
+- `ls`: muestra los archivos y directorios.
+- `cd`: permite cambiar de directorio.
+- `whoami`: muestra el nombre del usuario actual.
+- `uname -a`: muestra información del sistema operativo y del kernel.
 
-## Resultados
-
-Práctica de introducción al entorno Linux. Se documentarán los comandos ejecutados y los resultados obtenidos durante los ejercicios.
+Estos comandos permiten conocer el entorno Linux y realizar comprobaciones básicas de navegación e identificación del sistema.
