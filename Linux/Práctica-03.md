@@ -19,3 +19,21 @@ Comprender cómo se gestionan los permisos de archivos y directorios en Linux.
 
 ## Observaciones
 Documentar los comandos utilizados y los resultados obtenidos en las prácticas.
+
+
+## Objetivo
+
+Aprender a crear, organizar y gestionar directorios en Linux.
+
+## Comandos utilizados
+
+- `pwd`: consultar la ubicación actual.
+- `ls`: listar el contenido de un directorio.
+- `mkdir`: crear directorios.
+- `cd`: acceder a otros directorios.
+- `rmdir`: eliminar directorios vacíos.
+- `find`: buscar archivos y directorios.
+
+## Resultados
+
+Se documentarán los ejercicios realizados y los resultados obtenidos.
