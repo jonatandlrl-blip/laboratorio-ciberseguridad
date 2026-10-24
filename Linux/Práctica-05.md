@@ -18,3 +18,20 @@ Conocer los comandos básicos para consultar la configuración de red y comproba
 
 ## Observaciones
 Registrar los comandos utilizados y los resultados obtenidos. Realizar las comprobaciones únicamente en redes propias o autorizadas.
+
+
+## Resultados
+
+Se registrarán los resultados obtenidos al consultar las interfaces de red, las rutas de comunicación, la conectividad y la resolución de nombres.
+
+- `ip addr`: permite identificar las interfaces y sus direcciones IP.
+- `ip route`: permite consultar las rutas de red configuradas.
+- `ping`: permite comprobar la conectividad con un destino autorizado.
+- `getent hosts`: permite consultar la resolución de nombres.
+- `ss -tuln`: permite consultar los puertos TCP y UDP en escucha.
+
+## Conclusión
+
+Esta práctica permite familiarizarse con la configuración de red en Linux y con los comandos básicos para comprobar la conectividad y consultar información de red.
+
+Los resultados concretos se incorporarán después de ejecutar y verificar los comandos en el sistema.
