@@ -35,7 +35,16 @@ Los comandos que modifican permisos o propietarios deben probarse únicamente so
 
 ## Resultados
 
-Se documentarán los comandos ejecutados, los permisos observados y los resultados obtenidos durante los ejercicios.
+Los comandos de Linux permiten consultar el usuario actual, identificar los usuarios y grupos del sistema y revisar los permisos de los archivos.
+
+- `whoami`: identifica el usuario con el que se está trabajando.
+- `id`: muestra el identificador del usuario y sus grupos.
+- `ls -l`: permite consultar los permisos, el propietario y el grupo de los archivos.
+- `chmod`: permite modificar los permisos de archivos y directorios.
+
+Los permisos se organizan en lectura (r), escritura (w) y ejecución (x), y se aplican al propietario, al grupo y a otros usuarios.
+
+La modificación de permisos debe realizarse únicamente sobre archivos de prueba y con la autorización correspondiente.
 
 ## Conclusión
 
