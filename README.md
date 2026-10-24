@@ -18,6 +18,20 @@ OSINT: metodología de investigación y recopilación de información pública.
 ## Herramientas en aprendizaje
 Maltego · theHarvester · Maigret · Hunchly · Linux
 
+## Áreas de trabajo
+
+- [Linux](./Linux/README.md): comandos, administración básica y seguridad.
+- [Redes](./redes/README.md): fundamentos de redes y comunicaciones.
+- [OSINT](./osint/README.md): metodología, herramientas e informes de investigación.
+
+## Documentación de prácticas
+
+Este repositorio recoge ejercicios de aprendizaje y documentación técnica. Los resultados se incorporarán a medida que complete y valide cada práctica.
+
+## Ética y uso responsable
+
+Las actividades se realizan con fines educativos, utilizando entornos autorizados y respetando la privacidad y la legislación aplicable.
+
 ## Mis objetivos
 Documentar mis prácticas y avances.
 
