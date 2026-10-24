@@ -25,4 +25,10 @@ Desarrollar habilidades técnicas mediante ejercicios prácticos.
 
 Construir un portfolio profesional en ciberseguridad y OSINT.
 
-Una nueva misión, la misma disciplina y el compromiso de seguir aprendiendo.
+Una nueva misión, la misma disciplina y el compromiso de seguir aprendiendo.  
+
+## Próximas prácticas
+
+- Documentar ejercicios de Linux y OSINT con evidencias y resultados.
+- Registrar las herramientas utilizadas y los problemas encontrados.
+- Mantener actualizado el portafolio de aprendizaje en ciberseguridad.
