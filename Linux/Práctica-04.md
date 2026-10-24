@@ -30,7 +30,17 @@ Registrar los comandos utilizados y los resultados obtenidos. Ejecutar acciones 
 
 ## Resultados
 
-Se documentarán los comandos ejecutados, la información obtenida y las observaciones realizadas durante la práctica.
+Los comandos estudiados permiten identificar procesos, consultar su estado y observar la actividad del sistema Linux.
+
+- `pgrep`: permite localizar procesos por su nombre.
+- `ps`: muestra información sobre los procesos en ejecución.
+- `ps aux`: ofrece información detallada de los procesos activos.
+- `top`: permite observar los procesos y el consumo de recursos en tiempo real.
+- `pgrep bash`: permite buscar procesos cuyo nombre coincide con `bash`.
+- `kill`: permite enviar una señal a un proceso identificado mediante su PID.
+- `systemctl status cron`: permite consultar el estado del servicio cron.
+
+Estas herramientas facilitan la supervisión de procesos y servicios. Los resultados concretos dependerán de los procesos y servicios presentes en el sistema durante la práctica.
 
 ## Conclusión
 
