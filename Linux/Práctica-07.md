@@ -19,3 +19,22 @@ Comprender cómo se registran los cambios y se documenta el trabajo técnico med
 
 ## Observaciones
 GitHub permite conservar un historial de cambios y mostrar proyectos técnicos como parte de un portfolio profesional.
+
+## Procedimiento
+
+1. Acceder al repositorio de GitHub.
+2. Organizar las prácticas en carpetas temáticas, como Linux, REDES y OSINT.
+3. Crear y editar archivos Markdown (`.md`) para documentar las prácticas.
+4. Registrar los cambios realizados mediante commits.
+5. Revisar los archivos y su contenido desde la interfaz web de GitHub.
+
+## Resultados
+
+Se ha organizado el repositorio `laboratorio-ciberseguridad` y se han creado y editado archivos Markdown para documentar las prácticas de aprendizaje.
+
+El historial de commits permite consultar los cambios registrados en los archivos del repositorio.
+
+## Conclusión
+
+Esta práctica permite comprender cómo utilizar GitHub para organizar, documentar y conservar el historial de un proyecto técnico. El repositorio sirve como base para construir un portafolio de aprendizaje en ciberseguridad y OSINT.
+
