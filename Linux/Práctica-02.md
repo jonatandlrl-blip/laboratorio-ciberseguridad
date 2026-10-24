@@ -31,6 +31,18 @@ Practicar la navegación por el sistema de archivos de Linux y aprender a gestio
 - `mv`: mueve o renombra archivos.
 - `rm`: elimina archivos.
 
+
 ## Resultados
 
-Se documentarán los comandos ejecutados y los resultados obtenidos durante la práctica.
+Se han documentado los principales comandos para la gestión de archivos y directorios en Linux.
+
+- `pwd`: permite identificar el directorio actual.
+- `ls`: permite consultar los archivos y directorios disponibles.
+- `cd`: permite desplazarse entre directorios.
+- `mkdir`: permite crear directorios.
+- `touch`: permite crear archivos vacíos.
+- `cp`: permite copiar archivos.
+- `mv`: permite mover o renombrar archivos.
+- `rm`: permite eliminar archivos.
+
+Estos comandos constituyen la base para navegar por el sistema de archivos y realizar operaciones básicas de administración en Linux.
